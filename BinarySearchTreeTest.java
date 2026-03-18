@@ -1,8 +1,8 @@
-public class BinarySearchTree {
+public class BinarySearchTreeTest {
 
     private BinaryTree<Association<String, String>> root;
 
-    public BinarySearchTree() {
+    public BinarySearchTreeTest() {
         root = null;
     }
 

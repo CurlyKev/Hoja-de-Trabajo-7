@@ -2,10 +2,10 @@ import java.io.*;
 
 public class Translator {
 
-    private BinarySearchTree bst;
+    private BinarySearchTreeTest bst;
 
     public Translator() {
-        bst = new BinarySearchTree();
+        bst = new BinarySearchTreeTest();
     }
 
     public void loadDictionary(String filename) throws Exception {
